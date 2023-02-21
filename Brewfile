@@ -13,17 +13,22 @@ brew "libusb"
 brew "mas"
 brew "neofetch"
 brew "nmap"
+brew "openjdk@17"
 brew "screenfetch"
 cask "affinity-designer"
 cask "affinity-photo"
 cask "affinity-publisher"
 cask "appcleaner"
+cask "balance-lock"
+cask "betterdiscord-installer"
+cask "bing-wallpaper"
 cask "discord"
 cask "firefox"
 cask "github"
 cask "google-japanese-ime"
 cask "handbrake"
 cask "iina"
+cask "jellyfin-media-player"
 cask "maccy"
 cask "macdown"
 cask "microsoft-auto-update"
@@ -36,9 +41,12 @@ cask "telegram-desktop"
 cask "unofficial-wineskin"
 cask "visual-studio-code"
 cask "vlc"
+mas "10ten Japanese Reader", id: 1573540634
 mas "iMovie", id: 408981434
 mas "Infuse", id: 1136220934
 mas "LINE", id: 539883307
 mas "Microsoft To Do", id: 1274495053
+mas "Roadblock", id: 1051436753
 mas "Steam Link", id: 1246969117
 mas "Tailscale", id: 1475387142
+mas "Userscripts", id: 1463298887
